@@ -19,4 +19,4 @@ v. Convert the dataframe into a html
 vi. Initialize a header for the html file with the needed html tags.
 
 vii. Initialize and open a html file, write the dataframe components on it and close it once done. Result outcome should be as below.
-![HTML_Results.png]https://github.com/Jomondi/SQLite3_PandasProject/blob/main/HTML_Results.png
+![HTML_Results.png](https://github.com/Jomondi/SQLite3_PandasProject/blob/main/HTML_Results.png)
