@@ -21,7 +21,7 @@ iv. Convert the pandas file into a dataFrame and save it into SQLite3. Print the
 
 v. Convert the dataframe into a html
 
-vi. Initialize a header for the html file with the needed html tags.
+vi. Initialize a header for the html file with the needed html tags. Ensure the header references the css document for styling the html table. 
 
 vii. Initialize and open a html file, write the dataframe components on it and close it once done. Result outcome should be as below.
 
